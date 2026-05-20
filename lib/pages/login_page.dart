@@ -67,7 +67,7 @@ class _LoginPageState extends State<LoginPage> {
                   const SizedBox(height: 8),
 
                   const Text(
-                    "Login to track your budget.",
+                    "Please Login to track your budget.",
                     style: TextStyle(color: Colors.grey),
                   ),
 
